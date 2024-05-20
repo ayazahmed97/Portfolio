@@ -221,7 +221,7 @@ export const frontendCard: ISectionCardData[] = [
   {
     id: 6,
     title: 'JavaScript',
-    src: '/tech/frontend/javaScript.png',
+    src: '/tech/frontend/javascript.jpg',
     exp: '1 day ago',
     snippetCount: 1128,
     progress: 80,
